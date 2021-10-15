@@ -1,2 +1,4 @@
 # plantbased-patty-sentiment-analysis
-Explore consumer sentiment on social media (Twitter, etc.) regarding plant-based patties such as the Impossible Burger and the Beyond Burger
+Plant-based alternatives to meat have become a staple on supermarket shelves and restaurant menus. This trend has been bolstered by the increasing popularity of veganism and sustainable diets, as well as significant product innovations. Gone are days of veggie burgers bearing no resemblance to burgers made with beef. The plant-based patties of today, primarily produced by Impossible Foods and Beyond Meat, claim to be nearly identical to the real deal in appearance, consistency, and taste. As these alternatives steadily gain popularity and eat up the meat industry’s market share, I am curious about public opinion towards these products.
+
+Social media is an arbiter of public opinion, and I chose Twitter as a channel. With a focus on tweets containing the terms “impossible burger” or “beyond burger”, I obtained 40,000 recent tweets for each term.
