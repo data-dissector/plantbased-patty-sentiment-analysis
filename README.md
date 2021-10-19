@@ -35,6 +35,10 @@ Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
 
 https://github.com/scikit-learn/scikit-learn
 
+https://github.com/dmlc/xgboost
+
+https://github.com/amueller/word_cloud
+
 https://github.com/pandas-dev/pandas
 
 https://github.com/numpy/numpy
