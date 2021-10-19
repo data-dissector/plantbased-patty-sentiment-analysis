@@ -24,4 +24,17 @@ Scripts:
 </ol>
 
 Resources:
+
 https://github.com/JustAnotherArchivist/snscrape
+
+https://github.com/matplotlib/matplotlib
+
+https://github.com/nltk/nltk
+
+https://github.com/cjhutto/vaderSentiment
+
+https://github.com/scikit-learn/scikit-learn
+
+https://github.com/pandas-dev/pandas
+
+https://github.com/numpy/numpy
