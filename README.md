@@ -8,7 +8,7 @@ Social media is an arbiter of public opinion, and I chose Twitter as a channel. 
 Goals:
 <ol>
   <li>Get 40,000 tweets (30,000 to train machine learning model, 10,000 to test machine learning model) for both "impossible burger" and "beyond burger" search terms</li>
-  <li>Create training sets by analyzing tweets for positive (0) or negative (1) sentiment using a rule-based method <a href="https://github.com/cjhutto/vaderSentiment">(VADER - Valence Aware Dictionary and sEntiment Reasoner)</a></li>
+  <li>Create training sets by analyzing tweets for positive (0) or negative (1) sentiment using a rule-based method called <a href="https://github.com/nltk/nltk/blob/develop/nltk/sentiment/vader.py">VADER</a></li>
   <li>Visualize positive and negative training sets of tweets in word clouds to gain familiarity with each set</li>
   <li>Compare combinations of feature extraction methods (Bag-of-Words and TF-IDF) and machine learning models (Logistic Regression, XGBoost, Decision Trees) to find the combination with the highest F1 score</li>
   <li>Train machine learning model using features extracted from training sets of tweets</li>
@@ -27,14 +27,16 @@ Resources:
 
 https://github.com/JustAnotherArchivist/snscrape
 
-https://github.com/matplotlib/matplotlib
-
 https://github.com/nltk/nltk
 
-https://github.com/cjhutto/vaderSentiment
+Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for
+Sentiment Analysis of Social Media Text. Eighth International Conference on
+Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
 
 https://github.com/scikit-learn/scikit-learn
 
 https://github.com/pandas-dev/pandas
 
 https://github.com/numpy/numpy
+
+https://github.com/matplotlib/matplotlib
