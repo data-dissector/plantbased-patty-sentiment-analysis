@@ -12,3 +12,11 @@ Goals:
   <li>Train machine learning model using features extracted from training sets of tweets</li>
   <li>Apply trained machine learning model to predict sentiments of tweets in test sets</li>
 </ol>
+
+Scripts:
+<ol>
+  <li>Get tweets: twitter_scraper.ipynb</li>
+  <li>Create training sets: make_training_set.ipynb</li>
+  <li>Impossible Burger: impossible_analyze_tweets.ipynb</li>\
+  <li>Beyond Burger: beyond_analyze_tweets.ipynb</li>
+</ol>
