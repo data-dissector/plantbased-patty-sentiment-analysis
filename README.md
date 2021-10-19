@@ -24,3 +24,4 @@ Scripts:
 </ol>
 
 Resources:
+https://github.com/JustAnotherArchivist/snscrape
